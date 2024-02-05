@@ -1,0 +1,8 @@
+{
+  "name": "renovate-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nemolize/renovate-test",
+  "author": "Masaru Nemoto <16267290+nemolize@users.noreply.github.com>",
+  "license": "MIT"
+}
